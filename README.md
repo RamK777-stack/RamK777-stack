@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi I am Ram 👋
 
-Here are some ideas to get you started:
+Full stack, Love building web apps using React
 
-- 🔭 I’m currently working on web apps using react...
-- 🌱 I’m currently learning unit testing...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- Interested in contributing open source projects.
+- Currently building side projects using LLM.
+- Regularly posting my learning in x. https://x.com/ravancodes
+
 - 📫 How to reach me: ramk97095@gmail.com
+- X - https://x.com/ravancodes
