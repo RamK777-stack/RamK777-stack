@@ -1,6 +1,6 @@
 ### Hi I am Ram 👋
 
-Full stack, Love building web apps using React
+Full stack dev, Love building web apps using React
 
 - Interested in contributing open source projects.
 - Currently building side projects using LLM.
